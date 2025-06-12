@@ -3,3 +3,6 @@ https://www.google.com/search?q=jai+programming+language - https://inductive.no/
 
 # Relation:
 - [Picking A Language In 2025](https://youtu.be/xTgO6PpMnhk)
+
+# Learn:
+https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/
