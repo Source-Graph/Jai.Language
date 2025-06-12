@@ -6,3 +6,6 @@ https://www.google.com/search?q=jai+programming+language - https://inductive.no/
 
 # Learn:
 https://www.forrestthewoods.com/blog/learning-jai-via-advent-of-code/
+
+# Metaprogramming
+https://www.google.com/search?q=jai+metaprogramming
